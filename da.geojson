@@ -14,7 +14,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#ff0000",
+        "name": "Stadthaus"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -25,7 +28,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Herrengartencafe"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -47,7 +55,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -80,7 +90,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Stadtarchiv"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -102,7 +117,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Darmstadtium"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -135,7 +155,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Staatstheater"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -179,7 +204,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mathildenhöhe / Fünf-Finger-Turm"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -234,7 +264,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bismarckturm"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -245,7 +280,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#000dff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Vivarium"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -438,6 +478,38 @@
         "coordinates": [
           8.64530950784683,
           49.81736983465218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Landesmuseum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.653621673583984,
+          49.874918870647896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0010ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Orangerie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65296721458435,
+          49.85810385119448
         ]
       }
     }
