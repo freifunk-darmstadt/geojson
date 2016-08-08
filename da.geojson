@@ -95,7 +95,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#9a9a9a",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Stadtarchiv"
@@ -122,7 +122,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Darmstadtium"
@@ -148,7 +148,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -205,7 +209,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -341,7 +349,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -396,7 +408,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#fe00f6",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -407,7 +423,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#929292",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -429,7 +449,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -485,7 +509,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#848484",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Landesmuseum"
@@ -556,6 +580,51 @@
         "coordinates": [
           8.649914860725401,
           49.86045547058672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff06",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.641272783279419,
+          49.85243874515661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#11f72b",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.630415201187134,
+          49.88028406055904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#24f52f",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.620394468307495,
+          49.88031517139088
         ]
       }
     }
