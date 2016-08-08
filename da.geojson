@@ -175,7 +175,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -186,7 +190,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
