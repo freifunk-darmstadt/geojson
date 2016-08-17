@@ -631,7 +631,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Hessisches Amt für Versorgung und Soziales Schottener Weg 3 64289 Darmstadt"
