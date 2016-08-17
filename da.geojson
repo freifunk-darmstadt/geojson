@@ -627,6 +627,22 @@
           49.88031517139088
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hessisches Amt für Versorgung und Soziales Schottener Weg 3 64289 Darmstadt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.656006157398224,
+          49.88753752692187
+        ]
+      }
     }
   ]
 }
