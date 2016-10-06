@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Rathaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.513752520084381,
+          49.90220531202856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Jugendtreff + Kulturbühne Café Extra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.51154237985611,
+          49.901170471383544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.514082431793213,
+          49.899940381509666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.506287932395935,
+          49.90099598020638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb300",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "kita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.50941002368927,
+          49.89619808943051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bauhof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.521825969219208,
+          49.89937888343146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zentrum für Gemeinschaftshilfe (ZfG)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.505247235298157,
+          49.90101325658872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb200",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Jugendtreff, Bücherei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.519283235073088,
+          49.91667175258019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb200",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.516324758529663,
+          49.916946357063836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.519570231437681,
+          49.921231020669666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ortsteilbücherei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.549130856990814,
+          49.92902740615736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bürgerhaus / Jugendtreff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.546478152275085,
+          49.930835158634075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.547188937664032,
+          49.930453585199146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.548621237277985,
+          49.928181347799615
+        ]
+      }
+    }
+  ]
+}
