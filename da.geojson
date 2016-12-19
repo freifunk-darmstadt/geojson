@@ -180,7 +180,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#f5ff00",
         "marker-size": "medium",
         "marker-symbol": ""
       },
