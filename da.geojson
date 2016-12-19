@@ -210,7 +210,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#f8ff00",
         "marker-size": "medium",
         "marker-symbol": ""
       },
@@ -228,7 +228,7 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Mathildenhöhe / Fünf-Finger-Turm"
+        "name": "MathildenhÃ¶he / FÃ¼nf-Finger-Turm"
       },
       "geometry": {
         "type": "Point",
@@ -634,13 +634,29 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Hessisches Amt für Versorgung und Soziales Schottener Weg 3 64289 Darmstadt"
+        "name": "Hessisches Amt fÃ¼r Versorgung und Soziales Schottener Weg 3 64289 Darmstadt"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           8.656006157398224,
           49.88753752692187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fbff1b",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Abendgymnasium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.664125204086304,
+          49.87144777300829
         ]
       }
     }
