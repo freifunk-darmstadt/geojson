@@ -195,7 +195,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#fcff00",
         "marker-size": "medium",
         "marker-symbol": ""
       },
