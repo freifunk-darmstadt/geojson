@@ -15,7 +15,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "#f4ff00",
         "name": "Stadthaus"
       },
       "geometry": {
