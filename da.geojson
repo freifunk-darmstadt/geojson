@@ -49,7 +49,8 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "Stadthaus Frankfurter Str."
       },
       "geometry": {
         "type": "Point",
@@ -242,7 +243,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Stadtverwaltung Frankfurter Str."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -499,7 +505,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Darmstadt-Eberstadt"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -659,6 +670,22 @@
         "coordinates": [
           8.664125204086304,
           49.87144777300829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0030ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bauaufsicht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.641597330570221,
+          49.8587574745399
         ]
       }
     }
